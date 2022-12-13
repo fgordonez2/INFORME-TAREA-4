@@ -5,26 +5,30 @@
   durante las clases impartidas, para desarrollar diferentes ejercicios y obtener un conocieminto más sólido de circuitos eléctricos complejos.
 
  # Específicos:
- - Describir características de los teoremas de circuitos
- - Aplicar los respectivos teoremas a un circuito eléctrico
- - Realizar correctamente las conversiones Delta a Y y viceversa
- - Determinar el efecto de carga de un voltímetro en un circuito
+ - Describir características de los teoremas de circuitos.
+ - Aplicar los respectivos teoremas a un circuito eléctrico.
+ - Realizar correctamente las conversiones Delta a Y y viceversa.
+ - Determinar el efecto de carga de un voltímetro en un circuito.
  
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
-![image](https://user-images.githubusercontent.com/104925648/200746879-0e64eed8-9c17-48a9-912c-5e8282c6dbbd.png)
-![image](https://user-images.githubusercontent.com/104925648/200746983-b2af88b5-734a-4df8-a6a5-716b5cfebf27.png)
-![image](https://user-images.githubusercontent.com/104925648/200747047-98923b70-7845-4800-a079-a5ddc5cbe53a.png)
-![image](https://user-images.githubusercontent.com/104925648/200970407-0426295b-0de5-4c07-a371-a1bee0efb165.png)
-![image](https://user-images.githubusercontent.com/104925648/200747269-2cf588c6-dc01-4b61-a505-01d5042c930e.png)
-![image](https://user-images.githubusercontent.com/104925648/200747373-95a8435c-7e37-457c-a841-ad9f5e1587f0.png)
-![image](https://user-images.githubusercontent.com/104925648/200747414-f3376b97-a3db-4ebc-8840-25c66dafda0f.png)
-![image](https://user-images.githubusercontent.com/104925648/200747458-ae61f782-d7eb-4585-9560-cbbf37c46e17.png)
-![image](https://user-images.githubusercontent.com/104925648/201176988-761ada95-1710-4879-a5d8-c949ce79ae10.png)
-![image](https://user-images.githubusercontent.com/104925648/200747553-6a0d151a-b480-4eb8-9d9b-635c8e1be5df.png)
-![image](https://user-images.githubusercontent.com/104925648/200747627-a4a3cd47-0a08-4eb9-9012-0eff35a39c4f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207446849-c3c6eb2c-934f-4ad1-86d2-d9bc60e9f74e.png)
+![image](https://user-images.githubusercontent.com/104925648/207447046-c428c720-dc05-42a4-b2dc-ae3212d350b2.png)
+![image](https://user-images.githubusercontent.com/104925648/207447209-52e35c01-1acb-4e50-a967-97332bdf9a0a.png)
+![image](https://user-images.githubusercontent.com/104925648/207447357-e8417ac9-d889-46ba-9c2f-376f9708b29d.png)
+![image](https://user-images.githubusercontent.com/104925648/207447494-f4ccec9d-bc7e-4aff-9fa3-a36dabbe8a2e.png)
+![image](https://user-images.githubusercontent.com/104925648/207447571-b235b482-99d9-4c03-b701-58ea3128151c.png)
+![image](https://user-images.githubusercontent.com/104925648/207447611-833db4af-10c7-4379-9ac9-79f29fcbad7f.png)
+![image](https://user-images.githubusercontent.com/104925648/207447669-af54bb0a-7f31-4f66-a730-b705c04097db.png)
+![image](https://user-images.githubusercontent.com/104925648/207447706-ff9cbf43-e792-4f44-8edb-921f4743a5eb.png)
+![image](https://user-images.githubusercontent.com/104925648/207447746-ee2a845a-6a7d-40d9-bdec-391f2da1fdce.png)
+![image](https://user-images.githubusercontent.com/104925648/207447780-16cb2232-1cc3-4944-8cfb-cae88d30fc42.png)
+![image](https://user-images.githubusercontent.com/104925648/207447829-e6907efd-38c2-48f2-a75e-83179a6b45ea.png)
+![image](https://user-images.githubusercontent.com/104925648/207447886-118a20a0-9f87-4fbc-86f1-863c874a8ef1.png)
+
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios impares *CAPITULO 1*:
 
