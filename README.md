@@ -44,60 +44,143 @@ los temas propuestos:
 - d) La combinación en serie de R1 y R2 está en paralelo con la combinación en serie de R3, R4 y R5
 - **e) respuestas (b) y (d)** ←
 
+3.Si todos los resistores mostrados en la figura 7-61 tienen el mismo valor, cuando se aplica voltaje entre las terminales A y B la corriente es 
 
-3. La unidad de voltaje es:
-- a) ohm 
-- b) watt 
-- **c) volt** ←
-- d) farad
+![image](https://user-images.githubusercontent.com/104925648/207448714-d202a3ae-b7cf-4244-bef7-6ab06690f323.png)
 
-5. Hertz es la unidad de:
-- a) potencia 
-- b) inductancia 
-- **c) frecuencia** ←
-- d) tiempo
+- a) máxima en R5
+- b) máxima en R3, R4 y R5
+- **c) máxima en R1 y R2** ←
+- d) la misma en todos los resistores
 
-7. La cantidad $4.7x10^3$ es lo mismo que:
-- a) 470 
-- **b) 4700** ←
-- c) 47,000 
-- d) 0.0047
+5. La combinación en paralelo de un resistor de 330 Ω y otro de 470 Ω está en serie con la combinación en paralelo de cuatro resistores de 1.0 kΩ. 
+   Se conecta una fuente de 100 V entre las terminales del circuito. El resistor con más corriente tiene un valor de
+   
+- a) 1.0 kΩ
+- **b) 330 Ω** ← 
+- c) 470 Ω
 
-9. El número 3,300,000 puede ser expresado en notación de ingeniería como:
-- a) $3300x10^3$
-- b) $3.3x10^-6$
-- c) $3.3x10^6$
-- **d) cualquier respuesta (a) o (c)** ←
 
-11. Cinco mil volts pueden ser expresados como
-- a) 5000 V 
-- b) 5 MV 
-- c) 5 kV 
-- **d) cualquier respuesta (a) o (c)** ←
+7. En el circuito de la pregunta 5, el porcentaje de la corriente total que pasa por cualquier resistor de 1.0 kΩ es
 
-## Sección 1-2 NOTACIÓN CIENTÍFICA
+- a) 100 %
+- **b) 25%** ←
+- c) 50%
+- d) 31.3 %
 
-1. Exprese cada uno de los números siguientes en notación científica:
-- (a) 3000 (b) 75,000 (c) 2,000,000
-![image](https://user-images.githubusercontent.com/104925648/201225991-11b77b79-d864-4524-ad5a-f5afe68200c7.png)
+9.Cierto divisor de voltaje se compone de dos resistores de 10 kΩ en serie. ¿Cuál de los siguientes resistores de carga tendrá 
+  el máximo efecto en el voltaje de salida?
+  
+- a) 1.0 MΩ
+- b) 20 kΩ
+- c) 100 kΩ
+- **d) 10 kΩ** ←
 
-3. Exprese cada uno de los números siguientes en notación científica:
-- (a) 8400 (b) 99,000  (c) $0.2x10^6$
-![image](https://user-images.githubusercontent.com/104925648/201227072-132352dc-3a8c-47e6-9a07-2e51a886016d.png)
+11.En un circuito en escalera, la simplificación deberá comenzar en
 
-5. Exprese cada uno de los números siguientes en notación científica:
-- (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
-![image](https://user-images.githubusercontent.com/104925648/201227172-4922be38-a7f3-45a4-a527-c7e1de4f6992.png)
+- a) La fuente
+- **b) El resisitor más elejado de la fuente** ←
+- c) El centro
+- d)El resisitor más cercano a la fuente
 
-7. Exprese cada uno de los números siguientes como un número decimal regular:
-- (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
-![image](https://user-images.githubusercontent.com/104925648/201226212-8ae4635b-1e28-407e-bcef-c3940ae8c2a3.png)
+13.El voltaje de salida de un puente Wheatstone equilibrado es
 
-![image](https://user-images.githubusercontent.com/104925648/201227349-34f38d23-f0a5-4095-9ee5-612149da3dba.png)
+- a) Igual al voltaje de fuente
+- **b) Igual  cero** ←
+- c) Depende de todos los valores de resistor presentes en el puente
+- d) Depende del valor del resistor desconocido 
 
-![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
+15.Usted está midiendo el voltaje en un punto dado de un circuito cuyos valores de resistencia son muy
+   altos y el voltaje medido es un poco más bajo de lo que debiera ser. Esto posiblemente es porque
+   
+- a) Usted está midiendo el voltaje en un punto dado de un circuito cuyos valores de resistencia son muy
+     altos y el voltaje medido es un poco más bajo de lo que debiera ser. Esto posiblemente es porque
+- b) El efecto de carga del voltímetro
+- c) El voltaje de fuente es demasiado bajo
+- **d) Todas estas respuestas** ←
 
-## Sección 1-3 Notación de Ingeniería y Prefijos métricos
+## Exámen rápido de dinámica de circuitos
+
+Consulte la figura 7-62(b)
+
+![image](https://user-images.githubusercontent.com/104925648/207452368-002ce097-3452-4044-ba1a-e563e35790cf.png)
+
+1.Si R2 se abre, la corriente total
+
+- a) Aumenta
+- **b) Disminuye** ←
+- c) No cambia
+
+3.Si R4 se abre, el voltaje entre sus extremos
+
+- **a) Aumenta** ←
+- b) Disminuye
+- c) No cambia
+
+Consulte la figura 7-64
+
+![image](https://user-images.githubusercontent.com/104925648/207452764-f2c8648c-545f-410b-afc5-0bd5c5255154.png)
+
+5.Si R10 se abre, con 10 V aplicados entre las terminales A y B, la corriente total 
+
+- a) Aumenta
+- **b) Disminuye** ←
+- c) No cambia
+
+7.Si existe un corto entre el contacto izquierdo de R3 y el contacto inferior de R5, la resistencia total entre A y B
+
+- a) Aumenta
+- **b) Disminuye** ←
+- c) No cambia
+
+Consulte la figura 7-68
+
+![image](https://user-images.githubusercontent.com/104925648/207453174-20dbeeae-1458-4921-8ef9-af68fe59976f.png)
+
+9.Si existe un corto del punto D a tierra, el voltaje de A a B
+
+- a) Aumenta
+- b) Disminuye
+- **c) No cambia** ←
+
+Consulte la figura 7-74
+
+![image](https://user-images.githubusercontent.com/104925648/207453333-7cb13ef2-e0f6-432d-9212-3506413d30c4.png)
+
+11.Si se conecta un resistor de carga de 10 kΩ entre las terminales de salida A y B, el voltaje de salida
+
+- a) Aumenta
+- **b) Disminuye** ←
+- c) No cambia
+
+Consulte la figura 7-75
+
+![image](https://user-images.githubusercontent.com/104925648/207453573-9d715d9a-4f14-47e3-a8ae-8205c4d161a7.png)
+
+13.Si existe un corto entre las terminales V2 y V3 del interruptor, el voltaje V1 con respecto a tierra
+
+- a) Aumenta
+- **b) Disminuye** ←
+- c) No cambia
+
+15.Si R4 se abre con el interruptor en la posición mostrada, el voltaje entre los extremos de RL
+
+- **a) Aumenta** ←
+- b) Disminuye
+- c) No cambia
+
+Consulte la figura 7-80
+
+![image](https://user-images.githubusercontent.com/104925648/207453845-37dfc6ea-8af8-485a-9993-228321b6c89e.png)
+
+17.Si R7 se pone en cortocircuito, VSALIDA
+
+- **a) Aumenta** ←
+- b) Disminuye
+- c) No cambia
+
+
+## Sección 7-1 Identificación de relaciones en serie-paralelo
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
 - (a) 89,000    (b) 450,000    (c) 12,040,000,000,000
