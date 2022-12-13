@@ -30,15 +30,20 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/207447886-118a20a0-9f87-4fbc-86f1-863c874a8ef1.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios impares *CAPITULO 1*:
+# Resolución de ejercicios impares *CAPITULO 7*:
 
 ## Autoevaluación:
 
-1. ¿Cuál de los siguientes términos no representa una cantidad eléctrica?
-- a) corriente
-- b) voltaje
-- **c) tiempo** ←
-- d) potencia
+1.¿Cuáles de los siguientes enunciados son verdaderos en relación con la figura 7-61?
+
+![image](https://user-images.githubusercontent.com/104925648/207448714-d202a3ae-b7cf-4244-bef7-6ab06690f323.png)
+
+- a) R1 y R2 están en serie con R3, R4 y R5
+- b) R1 y R2 están en serie
+- c) R3, R4 y R5 están en paralelo
+- d) La combinación en serie de R1 y R2 está en paralelo con la combinación en serie de R3, R4 y R5
+- **e) respuestas (b) y (d)** ←
+
 
 3. La unidad de voltaje es:
 - a) ohm 
