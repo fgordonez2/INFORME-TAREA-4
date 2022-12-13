@@ -1,8 +1,15 @@
 # INFORME-TAREA-4
 ># 1. OBJETIVOS
-# Generales:
+# General:
+- Identificar los citcuitos serie-paralelo, teoremas de circuitos y conversiones mediate una lectura comprensiva y el previo conocimeimnto adquirido 
+  durante las clases impartidas, para desarrollar diferentes ejercicios y obtener un conocieminto más sólido de circuitos eléctricos complejos.
 
  # Específicos:
+ - Describir características de los teoremas de circuitos
+ - Aplicar los respectivos teoremas a un circuito eléctrico
+ - Realizar correctamente las conversiones Delta a Y y viceversa
+ - Determinar el efecto de carga de un voltímetro en un circuito
+ 
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
