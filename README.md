@@ -260,6 +260,62 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/104925648/207480684-bcea953e-25f0-4361-aa94-2ae8ef250e16.png)
 
+![image](https://user-images.githubusercontent.com/104925648/207719948-94b2956a-5e1c-485d-a1a0-c62155cc55cb.png)
+
+23.Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
+   AB, BC y CD.
+   
+![image](https://user-images.githubusercontent.com/104925648/207720058-b11b5395-d9bc-4eaf-a10b-c6da4225acb5.png
+
+![image](https://user-images.githubusercontent.com/104925648/207721336-6985b644-d57a-401f-9d92-cefc12fd7c3d.png)
+
+## Sección 7-3 Divisores de volatje con cargas resistivas
+
+25.Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga. 
+   ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?
+
+![image](https://user-images.githubusercontent.com/104925648/207722410-4724639c-5e71-4817-bf1f-f153dfa78c91.png)
+
+27.¿Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de
+    salida de un divisor de voltaje dado?
+
+![image](https://user-images.githubusercontent.com/104925648/207723064-46652fe5-7155-4ff6-a2ea-b40c64ff17de.png)
+
+29.En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B.
+
+![image](https://user-images.githubusercontent.com/104925648/207723154-9c90a281-c462-4eab-a315-24e3c205c0a7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207723939-14f0f9d5-e14d-4e00-80fc-4bc4f868d4eb.png)
+
+31.Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: 
+   la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el volatje de fuente tiene que ser de 10 V, y 
+   las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se 
+   conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+
+![image](https://user-images.githubusercontent.com/104925648/207725157-01b5fad7-fbc0-47e2-8c5b-b772084bb94f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207728562-85e3a917-5f61-40be-a7a5-839bfabe3eb6.png)
+
+33.La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
+   campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd
+   para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores 
+   con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos
+- a) Encuentre Vg y Vs
+- b) Dtermine I1, I2, ID, Is
+- c) Encuentre VDS y VDG
+
+![image](https://user-images.githubusercontent.com/104925648/207728796-673e0255-97bd-45c2-9156-0747e18ec727.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207731184-ea42becd-1b20-4b4e-8bbc-3ef4f946e3c6.png)
+
+## Sección 7-4 Efecto de carga de un voltímetro
+
+35.¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
+    un circuito?
+- a) 1 V
+- b) 10 V
+- c) 100 V
+- **d) 1000 V** ←
 
 
 
