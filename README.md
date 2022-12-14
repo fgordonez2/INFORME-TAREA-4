@@ -182,34 +182,86 @@ Consulte la figura 7-80
 
 ## Sección 7-1 Identificación de relaciones en serie-paralelo
 
-13. Exprese cada uno de los números siguientes en notación de ingeniería:
-- (a) 89,000    (b) 450,000    (c) 12,040,000,000,000
-![image](https://user-images.githubusercontent.com/104925648/201227537-74c05003-210e-4c1a-b867-6ab2f7563188.png)
+1.Visualice y trace las siguientes combinaciones en serie-paralelo
 
-15. Exprese cada número en notación de ingeniería:
-- (a) 0.000345   (b) 0.025    (c) 0.00000000129
-![image](https://user-images.githubusercontent.com/104925648/201216405-f39d9fde-440a-4fd8-a7e7-6c199e912d9b.png)
+- a) R1 en serie con la combinación en paralelo de R2 y R3
+- b) R1 en paralelo con la combinación en serie de R2 y R3
+- c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros
+     cuatro resistores
+     
+ ![image](https://user-images.githubusercontent.com/104925648/207457264-3a2da289-173e-49e9-8a05-18e09fab3eb5.png)
 
-17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/104925648/201216532-59dc1176-60be-42df-8a15-9e8771400c6b.png)
+3.En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
+  desde la fuente
+  
+![image](https://user-images.githubusercontent.com/104925648/207457449-01733159-438c-476c-b2d1-6a3cc9f1fbd0.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201234639-52e031bb-7672-4209-bc7d-6b25219dae6f.png)
+- a) R1 y R4 están en serie con la combinación en paralelo de R2 y R3
+- b) R1 está en serie con la combinación paralela de R2, R3 y R4
+- c) La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5, todo esto está en paralelo con R1
 
-21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:
-![image](https://user-images.githubusercontent.com/104925648/201216768-8acc1709-9e2b-4ec3-a3cf-fdcaf8de5522.png)
+5.Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 
+  indicando valores de resistor, e identifique las relaciones en serie-paralelo
+  
+![image](https://user-images.githubusercontent.com/104925648/207458590-8ef10caf-120c-49b0-a361-e3fba3f3d765.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201227968-8e43ff81-03b7-4c8d-b92f-bdae39d2edd7.png)
+![image](https://user-images.githubusercontent.com/104925648/207460075-aac714e0-fcf9-422e-a83e-ded9029a4071.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201228008-f9971e19-7265-4081-911b-9a50fa37dbe6.png)
+7.Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). 
+  La batería tiene que conectarse externa a la tarjeta.
+  
+![image](https://user-images.githubusercontent.com/104925648/207460331-858d1675-877d-43f1-b47c-3063f7a4782b.png)
 
-## Sección 1-4 Conversiones de Unidades Métricas
+![image](https://user-images.githubusercontent.com/104925648/207462878-e5520fd3-a09d-4e68-b73c-ad2483abec0b.png)
 
-27. Realice las conversiones indicadas:
-- (a) 5 mA a microamperes    (b) 3200 uW a miliwatts     (c) 5000 kV a megavolts     (d) 10 MW a kilowatts 
-![image](https://user-images.githubusercontent.com/104925648/201234788-57d7c9e8-6032-4fb1-a6d1-d019eaf164ca.png)
 
-29. Sume las siguientes cantidades:
-![image](https://user-images.githubusercontent.com/104925648/201217294-2be0ace0-3124-4808-bd5c-c9ae059858e0.png)
+## Sección 7-2 Análisis de circuitos resistivos en serie-paralelo
+
+9.Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
+  la fuente
+
+![image](https://user-images.githubusercontent.com/104925648/207463228-b1424141-f8b7-48bd-8bfb-053cc7425457.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207467374-e764c17c-d85d-42d4-a19d-bcc6953d66f6.png)
+
+11.Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
+caída de voltaje.
+
+![image](https://user-images.githubusercontent.com/104925648/207467466-52714e46-e894-4d8f-9fec-de84966b5901.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207472899-ed5d9dc5-28ff-4bd1-8617-3aa89edfc1e9.png)
+
+13.Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+
+![image](https://user-images.githubusercontent.com/104925648/207472958-d4f5b9c9-0351-4fc8-8de7-69f6cdbb61dd.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207474711-f097c784-cb85-42b3-9579-ddbfe2c48e12.png)
+
+15.Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
+
+![image](https://user-images.githubusercontent.com/104925648/207474803-d89366ca-ce7c-4687-ad92-e8d7760b22e9.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207478761-2178276d-c87b-41ba-9490-eff07a2ddf23.png)
+
+17.En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar 
+   directamente un medidor entre los extremos del resistor?
+   
+![image](https://user-images.githubusercontent.com/104925648/207478852-11c22b30-b81a-4cda-95c5-ff9951b6e24a.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207480087-47d38392-830a-4fc3-ae72-16662490a75a.png)
+
+19.Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/104925648/207480130-b58a9179-40c6-48fb-8e4a-81eda9063b4d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207480619-246c303f-2755-4283-8e2b-c07190241faf.png)
+
+21.(a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
+
+![image](https://user-images.githubusercontent.com/104925648/207480684-bcea953e-25f0-4361-aa94-2ae8ef250e16.png)
+
+
+
 
 # Resolución de ejercicios impares *CAPITULO 2*:
 
