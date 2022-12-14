@@ -265,7 +265,7 @@ caída de voltaje.
 23.Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
    AB, BC y CD.
    
-![image](https://user-images.githubusercontent.com/104925648/207720058-b11b5395-d9bc-4eaf-a10b-c6da4225acb5.png
+![image](https://user-images.githubusercontent.com/104925648/207731768-0f183144-9bd1-413e-b087-9e22055260eb.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/207721336-6985b644-d57a-401f-9d92-cefc12fd7c3d.png)
 
