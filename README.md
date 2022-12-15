@@ -377,61 +377,193 @@ caída de voltaje.
 
 ## Sección 7-7 Localización de fallas
 
+49.¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+![image](https://user-images.githubusercontent.com/104925648/207750277-dabfab64-f56b-4beb-a3a4-10b80342ef97.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207751788-92a5a4be-9428-434a-be3f-13d871352832.png)
+
+51.En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla
+
+![image](https://user-images.githubusercontent.com/104925648/207751835-4ff86fd3-f23d-44d9-b547-5636072cb04f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207752402-1eea5890-7d4b-448c-ab7a-a35d198f8af1.png)
+
+53.Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+![image](https://user-images.githubusercontent.com/104925648/207752447-2bec4b8c-ad1c-4f55-81f7-549500efb9eb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207753735-03dc7f4a-452b-4ecd-85a1-9c9ef119ef06.png)
 
 
-
-
-
-# Resolución de ejercicios impares *CAPITULO 2*:
+# Resolución de ejercicios pares *CAPITULO 8*:
 
 ## Autoevaluación:
 
-1. Un átomo neutro con número atómico de tres, ¿cuántos electrones tiene?
-- (a) 1
-- **(b) 3** ←
-- (c) ninguno
-- (d) depende del tipo de átomo
+2.Se conecta una carga de 100 Ω entre las terminales de una fuente de voltaje con VS=10 V y RS=10 Ω.
 
-3. Los materiales donde no hay corriente cuando se aplica voltaje se llaman:
-- (a) filtros
-- (b) conductores
-- **(c) aislantes** ←
-- (d) semiconductores 
+  El voltaje entre los extremos de la carga es de
+- (a) 10 V
+- (b) 0 V
+- **(c) 9.09 V** ←
+- (d) 0.909 V
 
-5. La carga en un solo electrón es de:
-![image](https://user-images.githubusercontent.com/104925648/201218877-33e80190-b457-432d-9df6-8de69f1aa3f7.png)
+4.Cierta fuente de corriente tiene los valores IS=3 uA y RS=1.0 MΩ. Los valores para una fuente de
 
-7. La unidad de energía es el:
-- (a) watt
-- (b) coulomb
-- **(c) joule** ←
-- (d) volt
+  voltaje equivalente son de
+- (a) 3 uV, 1.0 MΩ
+- (b) 3 V, 1.0 MΩ
+- **(c) 1 V, 3.0 MΩ**←
 
-9. ¿Cuál de las siguientes circunstancias no es condición de un circuito eléctrico?
-- (a) voltaje y sin corriente
-- **(b) corriente y sin voltaje**
-- (c) voltaje y corriente
-- (d) sin voltaje y sin corriente 
 
-11. No hay corriente en un circuito cuando:
-- (a) un interruptor está cerrado
-- (b) un interruptor está abierto
-- (c) no hay voltaje
-- (d) respuestas (a) y (c)
-- **(e) respuestas (b) y (c)** ←
+6.El teorema de Thevenin convierte un circuito en una forma equivalente compuesta de 
 
-13. Potenciómetros y reóstatos son tipos de
-- (a) fuentes de voltaje
-- **(b) resistores variables** ←
-- (c) resistores fijos
-- (d) cortacircuitos
+- (a) Una fuente de corriente y una resistencia en serie
+- (b) Una fuente de voltaje y una resistencia en paralelo
+- **(c) Una fuente de voltaje y una resistencia en serie** ←
+- (d) Una fuente de corriente y una resistencia en paralelo
 
-## Sección 2-2 Carga Eléctrica
+8.Cierto circuito produce 15 V entre sus terminales de salida abiertas, y cuando se conecta una carga de
+  10 kΩ entre sus terminales de salida, produce 12 V. El equivalente de Thevenin para este circuito es de
+  
+- (a) 15 V en serie con 10 kΩ
+- (b) 12 V en serie con 10 kΩ
+- (c) 12 V en serie con 2.5 kΩ
+- **(d) 15 V en serie con 2.5 kΩ** ←
 
-1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-![image](https://user-images.githubusercontent.com/104925648/201226669-2144d54e-6740-4917-8c46-717a77a126c6.png)
+10.Para el circuito descrito en la pregunta 8, se transfiere potencia máxima a una
 
-![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
+- (a) Carga de 10 kΩ
+- **(b) Carga de 2.5 kΩ** ←
+- (c) Carga de resistencia infinitamente grande 
+
+## Exámen rápido de dinámica de circuitos
+
+Consulte la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/104925648/207755869-f5e4bbdc-0948-4acd-8cca-e92665084840.png)
+
+2.Si la fuente de 2 V se abre, el voltaje entre los extremos de R1
+
+- (a) Aumenta
+- **(b) Disminuye** ←
+- (c) No cambia
+
+Consulte la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/104925648/207756015-8da5e0b3-d8b6-4c32-9a82-d96ad679ff14.png)
+
+4.Si RL se abre, el voltaje en la terminal de salida con respecto a tierra
+
+- **(a) Aumenta** ←
+- (b) Disminuye
+- (c) No cambia
+
+6.Si cualquiera de los resistores de 5.6 kΩ se pone en cortocircuito, la corriente producida por la fuente
+
+- **(a) Aumenta** ←
+- (b) Disminuye
+- (c) No cambia
+
+Consulte la figura 8-82.
+
+![image](https://user-images.githubusercontent.com/104925648/207756284-2bfbe664-21d6-4501-8aa4-922c0189ff54.png)
+
+8.Si R1 es en realidad de 1.0 kΩ en lugar de 10 kΩ, el voltaje esperado entre A y B
+
+- **(a) Se incrementa** ←
+- (b) Disminuye
+- (c) No cambia
+
+10.Si se desarrolla un cortocircuito entre los extremos de R4, la magnitud del voltaje entre A y B
+
+- **(a) Aumenta** ←
+- (b) Disminuye
+- (c) No cambia
+
+Consulte la figura 8-84. 
+
+![image](https://user-images.githubusercontent.com/104925648/207756463-653aceff-0c4c-41f4-9a34-0ad0ec498ee5.png)
+
+12.Si se desarrolla un cortocircuito entre los extremos de un resistor de 330 Ω, VAB
+
+- **(a) Aumenta** ←
+- (b) Disminuye
+- (c) No cambia
+
+Consulte la figura 8-85(d).
+
+![image](https://user-images.githubusercontent.com/104925648/207756549-33b913ed-0e58-4c98-a3d6-1eca84fef1a2.png)
+
+14.Si el resistor de 47 Ω se pone en cortocircuito, el voltaje entre los extremos de RL
+
+- **(a) Aumenta** ←
+- (b) Disminuye
+- (c) No cambia
+
+## Sección 8-3 Conversiones de fuente
+
+2.Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/104925648/207756976-39a9650b-101b-4e52-873a-16375c5f740f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207757447-ee1c6e59-8c79-42ff-baab-2dc7176459ab.png)
+
+4.Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3. 
+
+![image](https://user-images.githubusercontent.com/104925648/207758070-7eda0e21-5d9b-4948-8dd7-750dd36bf352.png)
+
+6.Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes
+
+![image](https://user-images.githubusercontent.com/104925648/207758128-a01a5b50-c352-4217-a182-26e2865c3967.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207758366-40ed7a19-e2d0-4008-9af6-b70586755c90.png)
+
+## Sección 8-4 El teorema de superposición
+
+8.Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+  de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/104925648/207758467-11c5d281-9f88-4090-829d-ad8fb71e7ca7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207760266-4797d9f6-643f-4c01-bd08-55955249ce2a.png)
+
+10.Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/104925648/207760332-486a0bd8-2171-49e6-a5f9-0bad7c3307ed.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207764807-0e722117-50c6-4e90-bc5d-43c259c60c24.png)
+
+12.Repita el problema 11 si R2 es de 10 kΩ
+
+![image](https://user-images.githubusercontent.com/104925648/207764904-cebd544b-8df5-4620-b6d0-5c8123977161.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207766550-f91f9cc7-b9e0-4964-8d2e-f183f0adb36f.png)
+
+14.Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente 
+   a través de R4 después del cierre de cada interruptor
+   
+![image](https://user-images.githubusercontent.com/104925648/207766646-b4209c92-f6cb-4320-a071-63d81080f54f.png)
+
+## Sección 8-4 El teorema de Thevenin
+
+16.Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B
+
+![image](https://user-images.githubusercontent.com/104925648/207767408-1390a647-99b4-4f77-87b4-221ed843a2af.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207770739-7bf9843a-1fe6-4462-8e34-c5abfc026020.png)
+
+18.Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
+
+![image](https://user-images.githubusercontent.com/104925648/207770798-f6999bb1-29d7-4a90-bcf9-ef85bfbadc43.png)
+
+20.Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. 
+
+![image](https://user-images.githubusercontent.com/104925648/207771092-08df9a25-557f-442e-a97e-d57095c1a74d.png)
+
+
+
+
 
 ## Sección 2-3 Voltaje, corriente y resistencia
 
