@@ -317,6 +317,69 @@ caída de voltaje.
 - c) 100 V
 - **d) 1000 V** ←
 
+![image](https://user-images.githubusercontent.com/104925648/207732633-8dded743-a093-46a5-b4fa-0b089aabeb81.png)
+
+37.El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a)
+
+![image](https://user-images.githubusercontent.com/104925648/207732737-4567d864-4f35-446b-a87d-d59d4d1a929b.png)
+
+- a) ¿Qué intervalo se debrá utilizar?
+- b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+![image](https://user-images.githubusercontent.com/104925648/207734403-9858da80-8fa2-4b6a-8290-dc3960aa9592.png)
+
+## Sección 7-5 Redes de escalera
+
+39.Para el circuito mostrado en la figura 7-77, calcule:
+
+- a) La resistencia total entre las terminales de la fuente
+- b) La resistencia total entre las terminales de la fuente
+- c) La corriente a través del resistor de 910 Ω
+- d) El voltaje desde el punto A hasta el punto B
+
+![image](https://user-images.githubusercontent.com/104925648/207734612-8d41e6ed-34c2-4771-bec5-1dbbce022332.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207735801-32fac771-6fdd-4e0d-8cf4-4b7197323e70.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207738475-06f14eb5-2334-489a-b302-62459ad4b9a8.png)
+
+41.Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. 
+   Asimismo, calcule la corriente en cada rama con 10 V entre A y B
+   
+![image](https://user-images.githubusercontent.com/104925648/207735855-c4f790af-4419-40ad-bbb5-e78f87c61cb5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207739134-062314a0-ca77-40c7-938a-82a8894cf565.png)
+
+43.Determine IT y VSALIDA en la figura 7-80
+
+![image](https://user-images.githubusercontent.com/104925648/207741673-d7cc5815-3338-4ee0-8194-ad0ab3779c41.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207743907-bc79ca50-8bba-4891-8d2c-557025490080.png)
+
+45.Repita el problema 44 para las siguientes condiciones
+
+- a) Repita el problema 44 para las siguientes condiciones
+- b) SW3 y SW1 conectados a 112 V, SW2 y SW4 a tierra
+- c) Todos los interruptores conectados a 112 V
+
+![image](https://user-images.githubusercontent.com/104925648/207745036-8edc20b3-7772-4625-bc6c-d392fa0f1707.png)
+
+## Sección 7-6 El puente Wheatstone
+
+47.Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
+   120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
+   incrementan su resistencia en 60 mΩ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia 
+   en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+![image](https://user-images.githubusercontent.com/104925648/207745303-6ab3894e-5e12-41b9-9fb9-4b60ade155f6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/207746383-a206ae89-40f5-42d3-a646-84982f820ecf.png)
+
+## Sección 7-7 Localización de fallas
+
+
+
+
 
 
 # Resolución de ejercicios impares *CAPITULO 2*:
