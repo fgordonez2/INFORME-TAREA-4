@@ -339,7 +339,7 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/104925648/207734612-8d41e6ed-34c2-4771-bec5-1dbbce022332.png)
 
-![image](https://user-images.githubusercontent.com/104925648/207735801-32fac771-6fdd-4e0d-8cf4-4b7197323e70.png)
+![image](https://user-images.githubusercontent.com/104925648/207750147-1619c0b4-262a-4edc-9a23-5610cb8f27e2.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/207738475-06f14eb5-2334-489a-b302-62459ad4b9a8.png)
 
