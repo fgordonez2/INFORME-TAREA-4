@@ -545,7 +545,7 @@ Consulte la figura 8-85(d).
    
 ![image](https://user-images.githubusercontent.com/104925648/207766646-b4209c92-f6cb-4320-a071-63d81080f54f.png)
 
-## Sección 8-4 El teorema de Thevenin
+## Sección 8-5 El teorema de Thevenin
 
 16.Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B
 
