@@ -557,9 +557,13 @@ Consulte la figura 8-85(d).
 
 ![image](https://user-images.githubusercontent.com/104925648/207770798-f6999bb1-29d7-4a90-bcf9-ef85bfbadc43.png)
 
+![image](https://user-images.githubusercontent.com/104925648/208267330-6c00b616-d5f3-4589-abaf-599430a6204b.png)
+
 20.Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. 
 
 ![image](https://user-images.githubusercontent.com/104925648/207771092-08df9a25-557f-442e-a97e-d57095c1a74d.png)
+
+
 
 
 
