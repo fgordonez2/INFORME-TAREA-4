@@ -624,18 +624,15 @@ https://youtu.be/WKJ3nOy0BZE
 
 ># 5. CONCLUSIONES
 
-- Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
-  tomando en cuenta que se necesitan pasar de cantidades muy pequeñas a muy grandes o viceversa.
-- Al realizar este informe se concluyó que el volatje es la fuerza que provoca que se muevan los electrones, la corrientes es la
-  velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente.
-- Con el análisis de lectura hecho en el capitulo 1-2, en cuanto al armar un circuito eléctrico de forma física se deben considerar varios
-  parámetros, como la correcta medición de los componentes de dicho circuito al igual que tomar precauciones y enfrentar de forma correcta algún
-  riesgo eleçtrico
-- Una vez analizado la notación de ingeniería puedo concluir que permiten representar cantidades muy grandes o muy pequeñas, muy comunes en áreas 
-  de la tecnología como la electricidad y electrónica. La diferencia entre los dos tipos de notaciones está en la representación del exponente. 
-  En el caso de la notación científica el exponente puede tener cualquier valor.
+- El teorema de superposición para el análisis de circuitos serie - paralelo es de gran uso porque permite reducir un circuito complejo en una más simple, con esto se   facilita el análisis del circuito y se puede aplicar cualquier método conocido para poder calcular intensidad de corriente, el voltaje 
+  total del circuito y la resistencia total.
+- Las conversiones entre configuraciones de circuito tipo delta y tipo Y son útiles en ciertas aplicaciones especializadas de tres terminales (A,B,C).
+  Un ejemplo se encuentra en el análisis de un circuito puente Wheatstone con carga. 
+- Debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo.Se ha ignorado el efecto de       carga porque la resistencia interna de un voltímetro es muy alta, y normalmente tiene un efecto insignificante en el circuito que está siendo medido
+- Los teoremas de circuitos eléctricos son aquellas técnicas derivadas de las leyes de Kirchoff y la ley de Ohm que permiten resolver de una manera más simple cierto     tipo de circuitos. Algunos con aplicaciones más particulares que otros, facilitan el estudio de las redes eléctricas.
+- Los teoremas son de gran utilidad en las investigaciones que se hacen dentro delcampo de la ingeniería eléctrica, como por ejemplo el Teorema de Thévenin en        
+  elanálisis de los sistemas eléctricos de potencia.
   
-
 ># 6. BIBLIOGRAFÍA
 
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
