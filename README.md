@@ -412,8 +412,8 @@ caída de voltaje.
 
   voltaje equivalente son de
 - (a) 3 uV, 1.0 MΩ
-- (b) 3 V, 1.0 MΩ
-- **(c) 1 V, 3.0 MΩ**←
+- **(b) 3 V, 1.0 MΩ** ←
+- (c) 1 V, 3.0 MΩ
 
 
 6.El teorema de Thevenin convierte un circuito en una forma equivalente compuesta de 
