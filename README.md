@@ -545,7 +545,7 @@ Consulte la figura 8-85(d).
    
 ![image](https://user-images.githubusercontent.com/104925648/207766646-b4209c92-f6cb-4320-a071-63d81080f54f.png)
 
-## Sección 8-5 El teorema de Thevenin
+## Sección 8-5 El Teorema de Thevenin
 
 16.Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B
 
@@ -563,93 +563,62 @@ Consulte la figura 8-85(d).
 
 ![image](https://user-images.githubusercontent.com/104925648/207771092-08df9a25-557f-442e-a97e-d57095c1a74d.png)
 
+![image](https://user-images.githubusercontent.com/104925648/208335236-4fb4bd77-dc87-4159-a91c-267aa13ae4be.png)
 
+22.. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B
 
+![image](https://user-images.githubusercontent.com/104925648/208335266-fd5e03b4-8407-4bc1-a3aa-6d0823dab8f8.png)
 
+![image](https://user-images.githubusercontent.com/104925648/208336634-fe2bd8d7-525a-4384-b17c-e9b603263faf.png)
 
+## Sección 8-6 El teorema de Norton
 
+24.Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
 
-## Sección 2-3 Voltaje, corriente y resistencia
+![image](https://user-images.githubusercontent.com/104925648/208336773-4a7138cd-7e95-4afa-83f6-27851a90c99e.png)
 
-5. Determine el voltaje en cada uno de los siguientes casos:
-- (a) 10 J/C     (b) 5 J/2 C     (c) 100 J/25 C
-![image](https://user-images.githubusercontent.com/104925648/201219949-6fce8c9b-1dd6-40be-9301-ba30a411e813.png)
+![image](https://user-images.githubusercontent.com/104925648/208337654-f74f3269-5e9c-478e-9f76-eda080e6d774.png)
 
-7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
-![image](https://user-images.githubusercontent.com/104925648/201220041-11fc8ea4-9b1c-4d0f-9fd5-75328e9e314a.png)
+26.Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
+   R8 5 8 kΩ.
 
-![image](https://user-images.githubusercontent.com/104925648/201235240-99219f84-8f2b-4302-9848-14147333252d.png)
+![image](https://user-images.githubusercontent.com/104925648/208338002-38344ed4-f678-4bc9-9db9-58a80b21426c.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201235274-5b11e9fc-0973-4263-b15b-01d8279e8a76.png)
+28.En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
-![image](https://user-images.githubusercontent.com/104925648/201235319-6a850689-38ff-4c35-838f-35d96b945698.png)
+![image](https://user-images.githubusercontent.com/104925648/208338536-53b875c9-c5eb-49c3-b370-50a36434889a.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201235369-80a6b826-d9d4-4fcd-bc39-5517e69f07f5.png)
+![image](https://user-images.githubusercontent.com/104925648/208339273-79ff7d0c-9d81-4f4d-8038-8c1ce255c90d.png)
 
-## Sección 2-4 Fuentes de volatje y de corriente
+## Sección 8-7 Teorema de transferencia de potencia máxima
 
-17. Enliste cuatro fuentes de voltaje comunes.
-- 1) Fuente de potencia Cd
-- 2) Celda solar
-- 3) Generador
-- 4) Pilas (baterías)
+30.En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. 
+   Determine el valor apropiado de RL en cada caso
+   
+![image](https://user-images.githubusercontent.com/104925648/208339564-39b8d536-4b91-47b6-9e05-7867f21351fe.png)
 
-19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-- La fuente de potencia convierte el volatje de corriente alterna en corriente directa
+![image](https://user-images.githubusercontent.com/104925648/208340151-68721766-3007-448e-9aca-73a16bdda16c.png)
 
-## Sección 2-5 Resistores
+32.¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia 
+   de potencia máxima en el circuito de la figura 8-86?
+   
+![image](https://user-images.githubusercontent.com/104925648/208340215-5c27ff7f-a8c6-401f-bf8f-f25d2c2c8540.png)
 
-21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-- (a) rojo, violeta, naranja, oro
-- (b) café, gris, rojo, plata
-![image](https://user-images.githubusercontent.com/104925648/201221560-5610d6a4-5a6a-44f7-9329-8ef1bbca7fdd.png)
+## Sección 8-8 Conversiones delta a Y - Y a delta
 
-![image](https://user-images.githubusercontent.com/104925648/201235690-a79e0c49-e031-40f2-9da9-67da050b1b0a.png)
+34.En la figura 8-88, convierta cada red delta en una red Y.
 
-25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
-cada resistor tiene una tolerancia del 5 por ciento.
-![image](https://user-images.githubusercontent.com/104925648/201222333-6aef010a-f3e0-426e-92a8-e320c4133150.png)
+![image](https://user-images.githubusercontent.com/104925648/208340694-cda5a3cb-ceba-4528-b3ad-19e676df317b.png)
 
-27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
-cada resistor tiene tolerancia del 1 por ciento.
-![image](https://user-images.githubusercontent.com/104925648/201222402-5efa2590-bf02-427e-8989-7215120d3e50.png)
+![image](https://user-images.githubusercontent.com/104925648/208341407-9292cc90-0783-43c9-99a9-05b3502b25b4.png)
 
-29. ¿Cuál es la resistencia indicada por 4K7?
-![image](https://user-images.githubusercontent.com/104925648/201222473-f7b933c5-2779-4029-9f94-fe7274ca650b.png)
+36.Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
-## Sección 2-6 El circuito eléctrico
+![image](https://user-images.githubusercontent.com/104925648/208341456-dadf182a-3046-4a48-a50b-347803ac7512.png)
 
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
-![image](https://user-images.githubusercontent.com/104925648/201222599-bcf5a0be-1470-4d26-aabf-bd2b3266fcdf.png)
-
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo.
-    Determine cuál es este circuito.
-![image](https://user-images.githubusercontent.com/104925648/201222809-202c4210-b8b7-4055-8f5a-4d84ad05aa85.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201222865-e5a39c2d-3339-4f4f-b88e-e6dcaae546dd.png)
-
-## Sección 2-7 Mediciones de circuito básico
-
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de
-fuente en la figura 2-72.
-![image](https://user-images.githubusercontent.com/104925648/201222984-f61238f6-91e5-4dbf-81af-a4da2f33e994.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235954-62363df4-006f-44f8-a06c-cc8cefa3342a.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235995-9075508e-ae68-4f2e-aeb9-66b74df7a417.png)
-
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
-![image](https://user-images.githubusercontent.com/104925648/201224790-48036641-5e92-448c-8753-2da84198159e.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201236093-45ec9177-7116-4d87-bce5-6175b1aa9f41.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201225017-9f4f055c-b749-4f0f-a7c2-617e36e5b9d4.png)
+![image](https://user-images.githubusercontent.com/104925648/208343387-ece1a0c1-0503-4727-9ab8-c6df483652cb.png)
 
 ># 4. VÍDEO
-
-Dicho vídeo se lo realizó con el fin de dar prioridad al volatje, corriente y resistencia; como conocimiento general para los circuitos eléctricos
-en este se usa conversiones de unidades y también definiciones básicas.
-https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 ># 5. CONCLUSIONES
 
