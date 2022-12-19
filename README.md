@@ -620,6 +620,8 @@ Consulte la figura 8-85(d).
 
 ># 4. VÍDEO
 
+https://youtu.be/WKJ3nOy0BZE
+
 ># 5. CONCLUSIONES
 
 - Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
